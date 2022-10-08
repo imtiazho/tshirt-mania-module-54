@@ -13,7 +13,7 @@ import './Grandpa.css';
  * 6. to consume the context from child component
  * 7. useContext hook and you will you need to pass the contextName
  * 8. Make sure you take notes...
- *  */ 
+ **/ 
 
 
 export const RingContext = createContext('ring');

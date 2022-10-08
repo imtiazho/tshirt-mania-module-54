@@ -1,0 +1,9 @@
+1. Simple router setup
+2. Custom hook and load data and make product card with btn
+3. handle add to cart and handle remove item and alert something when add a product in the second time.
+4. conditional rendering
+5. Grandpa theke house props e kore pthabe shob jaygay!
+6. Dynamically house count by use state, prop drill and send something to my special one from grandpa.
+7. context api docs, use context api to send something to my special person from my grandpa. Moral: use context api to avoid props drilling
+8. Send full array and set something in state from child compoents, react extention
+9. react router base site deploy system, fix bug, nwtlify react router 4o4. use _redirects file in public to aboid this problem!
